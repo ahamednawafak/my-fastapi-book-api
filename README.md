@@ -6,7 +6,7 @@ A secure, database-backed RESTful API built with \*\*Python\*\*, \*\*FastAPI\*\*
 
 
 
-🌐 \*\*Live Demo \& Interactive Docs:\*\* \[https://my-fastapi-book-api.onrender.com/docs](https://my-fastapi-book-api.onrender.com/docs)
+🌐 \*\*Live Demo \& Interactive Docs:\*\* \[https://my-fastapi-book-api.onrender.com/docs]
 
 
 
@@ -120,7 +120,7 @@ If the key is missing or incorrect, the API responds with a `401 Unauthorized` H
 
 ```bash
 
-git clone \[https://github.com/ahamednawafak/my-fastapi-book-api.git](https://github.com/ahamednawafak/my-fastapi-book-api.git)
+git clone \[https://github.com/ahamednawafak/my-fastapi-book-api.git]
 
 cd my-fastapi-book-api
 
